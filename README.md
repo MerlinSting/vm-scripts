@@ -1,4 +1,7 @@
 # vm-scripts
+## Useful Links
+
+1. https://github.com/community-scripts/ProxmoxVE
 
 ## SMB Share Auto-Mount Script (Direct Execution)
 
