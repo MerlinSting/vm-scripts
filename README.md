@@ -12,9 +12,6 @@ This script automates mounting an SMB share on Linux and sets it to auto-mount o
     ```bash
     sudo bash <(curl -s [https://raw.githubusercontent.com/MerlinSting/vm-scripts/refs/heads/main/smb/setup_smb.sh](https://raw.githubusercontent.com/MerlinSting/vm-scripts/refs/heads/main/smb/setup_smb.sh))
     ```
-    * Replace `yourusername` and `yourrepository` with your GitHub username and repository name.
-    * Replace `main` with the branch that contains the script.
-    * This command downloads and executes the script directly without saving it to disk.
 
 2.  **Follow the prompts:** Enter the SMB share details, username, password, and UID/GID.
 
