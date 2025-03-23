@@ -1,6 +1,6 @@
 # vm-scripts
 
-# SMB Share Auto-Mount Script (Direct Execution)
+## SMB Share Auto-Mount Script (Direct Execution)
 
 This script automates mounting an SMB share on Linux and sets it to auto-mount on boot using `curl` and `bash` for direct execution.
 
